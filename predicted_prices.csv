@@ -1,0 +1,21 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats,predicted_price
+Maruti Swift Dzire VDI,2020,50000,Diesel,Dealer,Manual,First Owner,22.0,1248,74.0,190Nm@2000rpm,5,583158.116545809
+Honda City,2019,30000,Petrol,Individual,Automatic,First Owner,18.0,1498,119.0,145Nm@4600rpm,5,570346.0653768496
+Toyota Corolla,2018,40000,Petrol,Dealer,Manual,Second Owner,19.5,1800,140.0,170Nm@4000rpm,5,611582.7915728806
+Hyundai i20,2017,25000,Diesel,Individual,Automatic,Third Owner,20.0,1400,90.0,220Nm@1500rpm,5,444661.0263051107
+Ford EcoSport,2016,60000,Petrol,Trustmark Dealer,Manual,First Owner,17.0,1500,110.0,140Nm@4500rpm,5,397270.46252837795
+Nissan Sunny,2015,55000,Diesel,Individual,Manual,Second Owner,21.0,1461,105.0,248Nm@2000rpm,5,367903.1094171855
+Mahindra XUV500,2014,70000,Diesel,Dealer,Automatic,First Owner,16.0,2179,140.0,330Nm@1600rpm,7,452335.78596339066
+Tata Nexon,2013,45000,Petrol,Trustmark Dealer,Manual,Second Owner,17.5,1198,110.0,170Nm@1750rpm,5,243454.78233857793
+Renault Duster,2012,50000,Diesel,Individual,Automatic,Third Owner,19.0,1461,105.0,248Nm@2000rpm,5,256046.37327541385
+Volkswagen Polo,2011,35000,Petrol,Dealer,Manual,First Owner,16.5,1198,105.0,175Nm@3800rpm,5,192583.85426313707
+Skoda Rapid,2010,40000,Diesel,Individual,Automatic,Second Owner,20.5,1598,105.0,250Nm@1500rpm,5,225964.86571210195
+Mitsubishi Pajero,2009,80000,Diesel,Dealer,Manual,First Owner,12.0,3200,178.0,441Nm@2000rpm,7,425606.321479568
+Jeep Compass,2008,70000,Petrol,Trustmark Dealer,Automatic,Second Owner,14.0,1368,160.0,250Nm@1750rpm,5,143797.30350798086
+Kia Seltos,2007,60000,Diesel,Individual,Manual,Third Owner,18.0,1493,115.0,250Nm@1500rpm,5,145985.02368316025
+MG Hector,2006,75000,Petrol,Dealer,Automatic,First Owner,17.0,1451,143.0,250Nm@1600rpm,5,125013.60549068867
+Tata Harrier,2005,65000,Diesel,Individual,Manual,Second Owner,17.0,1956,170.0,350Nm@1750rpm,5,147954.87100294267
+Mahindra Scorpio,2004,60000,Diesel,Trustmark Dealer,Automatic,Third Owner,16.0,2179,120.0,280Nm@1800rpm,7,147685.20083946967
+Ford Endeavour,2003,85000,Diesel,Dealer,Manual,First Owner,13.0,3198,197.0,470Nm@1750rpm,7,219235.26458426105
+Toyota Innova,2002,70000,Petrol,Individual,Automatic,Second Owner,14.0,2693,166.0,245Nm@4000rpm,7,151519.58561347993
+Honda CR-V,2001,75000,Petrol,Trustmark Dealer,Manual,Third Owner,13.0,2354,150.0,190Nm@4300rpm,5,110700.32357054697

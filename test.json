@@ -1,0 +1,108 @@
+Хороший json 
+
+{
+  "name": "Maruti Swift Dzire VDI",
+  "year": 2020,
+  "km_driven": 50000,
+  "fuel": "Diesel",
+  "seller_type": "Dealer",
+  "transmission": "Manual",
+  "owner": "First Owner",
+  "mileage": 22.0,
+  "engine": 1248,
+  "max_power": 74.0,
+  "torque": "190Nm@2000rpm",
+  "seats": 5
+}
+
+
+Список json
+    [
+      {
+        "name": "Maruti Swift Dzire VDI",
+        "year": 2020,
+        "km_driven": 50000,
+        "fuel": "Diesel",
+        "seller_type": "Dealer",
+        "transmission": "Manual",
+        "owner": "First Owner",
+        "mileage": 22.0,
+        "engine": 1248,
+        "max_power": 74.0,
+        "torque": "190Nm@2000rpm",
+        "seats": 5
+      },
+      {
+        "name": "Honda City",
+        "year": 2019,
+        "km_driven": 30000,
+        "fuel": "Petrol",
+        "seller_type": "Individual",
+        "transmission": "Automatic",
+        "owner": "First Owner",
+        "mileage": 18.0,
+        "engine": 1498,
+        "max_power": 119.0,
+        "torque": "145Nm@4600rpm",
+        "seats": 5
+      },
+      {
+        "name": "Toyota Corolla",
+        "year": 2018,
+        "km_driven": 40000,
+        "fuel": "Petrol",
+        "seller_type": "Dealer",
+        "transmission": "Manual",
+        "owner": "Second Owner",
+        "mileage": 19.5,
+        "engine": 1800,
+        "max_power": 140.0,
+        "torque": "170Nm@4000rpm",
+        "seats": 5
+      },
+      {
+        "name": "Hyundai i20",
+        "year": 2017,
+        "km_driven": 25000,
+        "fuel": "Diesel",
+        "seller_type": "Individual",
+        "transmission": "Automatic",
+        "owner": "Third Owner",
+        "mileage": 20.0,
+        "engine": 1400,
+        "max_power": 90.0,
+        "torque": "220Nm@1500rpm",
+        "seats": 5
+      },
+      {
+        "name": "Ford EcoSport",
+        "year": 2016,
+        "km_driven": 60000,
+        "fuel": "Petrol",
+        "seller_type": "Trustmark Dealer",
+        "transmission": "Manual",
+        "owner": "First Owner",
+        "mileage": 17.0,
+        "engine": 1500,
+        "max_power": 110.0,
+        "torque": "140Nm@4500rpm",
+        "seats": 5
+      }
+  ]
+
+  
+Ошибочный json 
+{
+  "name": "Maruti Swift Dzire VDI 123",
+  "year": 1800,
+  "km_driven": 50000,
+  "fuel": "Diesel",
+  "seller_type": "Dealer",
+  "transmission": "Manual",
+  "owner": "First Owner",
+  "mileage": 22.0,
+  "engine": 1248,
+  "max_power": 74.0,
+  "torque": "190Nm@2000rpm",
+  "seats": 5
+}
